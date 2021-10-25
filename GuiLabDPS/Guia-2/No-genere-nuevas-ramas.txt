@@ -1,0 +1,3 @@
+Debido a que si me ponia a desarrollar el ultimo punto de la guia1,
+generando nuevas ramas, iba a generar un gran desorden para editar solo 1 carpeta y
+probablemente, nunca volveria a utilizarlas en el resto de laboratorios.
